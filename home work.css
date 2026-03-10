@@ -82,3 +82,23 @@ body{
 .s1s{
     display: none;
 }
+.text2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.big2{
+    margin-top: 30px;
+    display: flex;
+    gap: 140px;
+    justify-content: center;
+}
+.text2 p{
+    margin-bottom: 5px;
+}
+.but button{
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: rgba(85, 0, 136, 1);
+}
