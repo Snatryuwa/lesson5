@@ -28,5 +28,10 @@
     margin-top: 200px;
     gap: 50px;
   }
-  
+  .image6{
+    margin-top: 40px;
+    position: static;
+    margin-left: 40px;
+  }
+
 }

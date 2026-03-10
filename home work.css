@@ -117,3 +117,28 @@ body{
     gap: 120px;
     align-items: center;
 }
+.image5{
+    width: 20px;
+    height: 20px;
+}
+.s5{
+    display: flex;
+    gap: 15px;
+    margin-bottom: 10px;
+}
+.s4{
+    padding-left: 50px; ;
+}
+.text4{
+    padding-left: 40px;
+}
+.big4{
+    padding-top: 50px;
+    position: relative;
+}
+.image6{
+    width: 80%;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
